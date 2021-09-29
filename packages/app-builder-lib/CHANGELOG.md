@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 22.14.4
+
+### Patch Changes
+
+- [#6287](https://github.com/electron-userland/electron-builder/pull/6287) [`10b47273`](https://github.com/electron-userland/electron-builder/commit/10b47273c32c32df17dfb910feb4a7704c83da91) Thanks [@nonesand](https://github.com/nonesand)! - fix: add appCannotBeClosed text for zh_CN
+
 ## 22.14.3
 
 ### Patch Changes
